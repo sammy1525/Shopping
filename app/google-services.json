@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "240076776091",
+    "firebase_url": "https://shopping-91987.firebaseio.com",
+    "project_id": "shopping-91987",
+    "storage_bucket": "shopping-91987.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240076776091:android:3430178382cef14d",
+        "android_client_info": {
+          "package_name": "fire.sammy.com.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240076776091-hq2i7juita2q6aafh165tuak35vtsm2p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsjnAxfUEn4543rWeW9QaKE6ZruUC9dbc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
